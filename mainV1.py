@@ -38,7 +38,7 @@ def main():
     agent = initialize_agent(tools, llm, agent="zero-shot-react-description", verbose=True)
 
     # Accept input from user
-    user_input = st.text_input("Enter your message:")  
+    user_input = st.text_input("Enter your product:")
 
     # Submit Button Logic
     if st.button("Submit") and user_input:

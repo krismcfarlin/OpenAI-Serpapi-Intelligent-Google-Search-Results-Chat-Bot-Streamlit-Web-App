@@ -1,2 +1,2 @@
-serpapikey = ""
-openaikey = ""
+serpapikey = "e26a1e9b3a821c534318cc96479c57934143e38d9cb09c0e5837ef40f254929e"
+openaikey = "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"
