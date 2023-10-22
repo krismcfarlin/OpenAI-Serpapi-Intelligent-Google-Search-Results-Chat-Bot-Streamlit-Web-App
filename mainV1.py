@@ -9,6 +9,7 @@ from apikeys import serpapikey, openaikey
 
 def main():
     # Streamlit page configuration
+    
     st.set_page_config(page_title='Serpapi Agent', layout='wide')
 
     # Apply CSS styling
